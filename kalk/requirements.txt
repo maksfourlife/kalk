@@ -1,0 +1,7 @@
+fastapi
+python-multipart
+
+uvicorn
+
+wasmer
+wasmer_compiler_cranelift
